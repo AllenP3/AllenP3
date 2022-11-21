@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllenP3
 - 🌱 I’m currently pursuing a Mechatronis Bachelors Degree at FHWS, Germany
-- 📫 How to reach me ... alenmp2003@gmail.com
+- 📫 How to reach me ... allenmp2003@gmail.com
 
 <!---
 AllenP3/AllenP3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
