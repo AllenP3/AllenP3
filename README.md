@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1> Hi 👋 Im Allen </h1>
   <h3>Mechatronics Engineering student at THWS Schweinfurt</h3>
+  
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/allen-p-517818216/">
