@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div id="header" align="center">
   <h1> Hi 👋 I'm Allen </h1>
   <h3>Mechatronics Engineering student at THWS Schweinfurt</h3>
@@ -10,6 +11,8 @@
   <a href="https://twitter.com/e_escalade">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="allen-p-517818216" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/allen-p-517818216?trk=profile-badge">Allen P</a></div>
+              
 </div>
 </div>
 
