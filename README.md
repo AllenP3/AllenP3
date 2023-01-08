@@ -5,7 +5,7 @@
   <h4>📩 You can contact me at allenmp2003@gmail.com</h4>
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/allen-p-517818216/">
+  <a href="https://www.linkedin.com/in/allenp3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/e_escalade">
