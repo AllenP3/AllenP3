@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Hi 👋 Im Allen </h1>
+  <h1> Hi 👋 I'm Allen </h1>
   <h3>Mechatronics Engineering student at THWS Schweinfurt</h3>
   <h4>📩 You can contact me at allenmp2003@gmail.com</h4>
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
