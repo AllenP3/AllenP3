@@ -1,4 +1,4 @@
-<p> Hi, Im Allen</p>
+<h1> Hi, Im Allen</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
   <div id="badges">
