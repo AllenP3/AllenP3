@@ -10,19 +10,33 @@
   </a>
   <a href="https://twitter.com/e_escalade">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-              
-              
+  </a>       
 </div>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+## About Me :
 <!---
 AllenP3/AllenP3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
+<p></p>
 
 - 🔭 I'm currently studying in my 3rd semester at THWS Schweinfurt!
 - 🌱 I'm currently learning C++
 - 😄 Pronouns: he/him
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+  </div>
