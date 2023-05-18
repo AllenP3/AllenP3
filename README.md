@@ -31,9 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 <p></p>
 
-- 🔭 I'm currently studying in my 3rd semester at THWS Schweinfurt!
-- 🌱 I'm currently learning C++
-- 😄 Pronouns: he/him
+- 🔭 I'm currently studying in my 2nd semester at THWS Schweinfurt!
+- 🌱 Learning the ways of the machine
 
 ---
 
