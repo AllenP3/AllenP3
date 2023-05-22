@@ -39,5 +39,7 @@ You can click the Preview link to take a look at your changes.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python logo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/html5" title="HTML5" alt="HTML5 logo" width="40" height="40"/>
   </div>
